@@ -13,19 +13,49 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\数组">
+    <Filter Include="源文件\Ch1.数组">
       <UniqueIdentifier>{cc241d7d-3410-44ff-bb4b-3206bd6364a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch2.链表">
+      <UniqueIdentifier>{6e091623-7b05-4ce9-b90e-4a3a4352e52b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
-      <Filter>源文件\数组</Filter>
+      <Filter>源文件\Ch1.数组</Filter>
     </ClCompile>
     <ClCompile Include="数组：2.移除元素.cpp">
-      <Filter>源文件\数组</Filter>
+      <Filter>源文件\Ch1.数组</Filter>
     </ClCompile>
     <ClCompile Include="数组：3.有序数组的平方.cpp">
-      <Filter>源文件\数组</Filter>
+      <Filter>源文件\Ch1.数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组：4.长度最小子数组.cpp">
+      <Filter>源文件\Ch1.数组</Filter>
+    </ClCompile>
+    <ClCompile Include="数组：5.螺旋矩阵.cpp">
+      <Filter>源文件\Ch1.数组</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：1.删除链表元素.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：2.设计链表.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：3.翻转链表.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：4.两两交换链表中的节点.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：5.删除链表的倒数第N个节点.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：6.链表相交.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：7.环形链表.cpp">
+      <Filter>源文件\Ch2.链表</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

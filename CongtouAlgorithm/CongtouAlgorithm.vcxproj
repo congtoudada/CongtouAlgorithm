@@ -142,6 +142,15 @@
     <ClCompile Include="数组：2.移除元素.cpp" />
     <ClCompile Include="数组：1.二分查找法.cpp" />
     <ClCompile Include="数组：3.有序数组的平方.cpp" />
+    <ClCompile Include="数组：4.长度最小子数组.cpp" />
+    <ClCompile Include="数组：5.螺旋矩阵.cpp" />
+    <ClCompile Include="链表：1.删除链表元素.cpp" />
+    <ClCompile Include="链表：2.设计链表.cpp" />
+    <ClCompile Include="链表：3.翻转链表.cpp" />
+    <ClCompile Include="链表：4.两两交换链表中的节点.cpp" />
+    <ClCompile Include="链表：5.删除链表的倒数第N个节点.cpp" />
+    <ClCompile Include="链表：6.链表相交.cpp" />
+    <ClCompile Include="链表：7.环形链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
