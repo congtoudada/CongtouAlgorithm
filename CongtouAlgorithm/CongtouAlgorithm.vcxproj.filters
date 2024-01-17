@@ -19,6 +19,9 @@
     <Filter Include="源文件\Ch2.链表">
       <UniqueIdentifier>{6e091623-7b05-4ce9-b90e-4a3a4352e52b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch3.哈希表">
+      <UniqueIdentifier>{4f5214f0-5097-4798-ac9b-2b66ac549846}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -56,6 +59,30 @@
     </ClCompile>
     <ClCompile Include="链表：7.环形链表.cpp">
       <Filter>源文件\Ch2.链表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：1.有效的字母异位词.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：2.两个数组的交集.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：3.快乐数.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：4.两数之和.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：5.四数相加2.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：6.赎金信.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：7.三数之和.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：8.四数之和.cpp">
+      <Filter>源文件\Ch3.哈希表</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
