@@ -147,6 +147,13 @@
     <ClCompile Include="哈希表：6.赎金信.cpp" />
     <ClCompile Include="哈希表：7.三数之和.cpp" />
     <ClCompile Include="哈希表：8.四数之和.cpp" />
+    <ClCompile Include="字符串：1.反转字符串.cpp" />
+    <ClCompile Include="字符串：2.反转字符串2.cpp" />
+    <ClCompile Include="字符串：3.替换数字.cpp" />
+    <ClCompile Include="字符串：4.翻转字符串里的单词.cpp" />
+    <ClCompile Include="字符串：5.右旋字符串.cpp" />
+    <ClCompile Include="字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp" />
+    <ClCompile Include="字符串：7.重复的子字符串.cpp" />
     <ClCompile Include="数组：2.移除元素.cpp" />
     <ClCompile Include="数组：1.二分查找法.cpp" />
     <ClCompile Include="数组：3.有序数组的平方.cpp" />

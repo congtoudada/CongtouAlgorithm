@@ -1,2 +1,9 @@
-﻿  哈希表：3.快乐数.cpp
+﻿  字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp(15,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp(32,26): warning C4018: “<”: 有符号/无符号不匹配
+  字符串：7.重复的子字符串.cpp
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\字符串：7.重复的子字符串.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\字符串：7.重复的子字符串.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
   CongtouAlgorithm.vcxproj -> E:\Practice\Language\C++\CongtouAlgorithm\Debug\CongtouAlgorithm.exe

@@ -22,6 +22,9 @@
     <Filter Include="源文件\Ch3.哈希表">
       <UniqueIdentifier>{4f5214f0-5097-4798-ac9b-2b66ac549846}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch4.字符串">
+      <UniqueIdentifier>{9fcbcd81-0628-4d26-b7d5-9ee4cc29e084}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -83,6 +86,27 @@
     </ClCompile>
     <ClCompile Include="哈希表：8.四数之和.cpp">
       <Filter>源文件\Ch3.哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：1.反转字符串.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：2.反转字符串2.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：3.替换数字.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：4.翻转字符串里的单词.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：5.右旋字符串.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：7.重复的子字符串.cpp">
+      <Filter>源文件\Ch4.字符串</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
