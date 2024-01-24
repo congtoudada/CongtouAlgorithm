@@ -159,6 +159,13 @@
     <ClCompile Include="数组：3.有序数组的平方.cpp" />
     <ClCompile Include="数组：4.长度最小子数组.cpp" />
     <ClCompile Include="数组：5.螺旋矩阵.cpp" />
+    <ClCompile Include="栈与队列：1.用栈实现队列.cpp" />
+    <ClCompile Include="栈与队列：2.用队列实现栈.cpp" />
+    <ClCompile Include="栈与队列：3.有效的括号.cpp" />
+    <ClCompile Include="栈与队列：4.删除字符串中的所有相邻重复项.cpp" />
+    <ClCompile Include="栈与队列：5.逆波兰表达式求值.cpp" />
+    <ClCompile Include="栈与队列：6.滑动窗口最大值.cpp" />
+    <ClCompile Include="栈与队列：7.前k个高频元素.cpp" />
     <ClCompile Include="链表：1.删除链表元素.cpp" />
     <ClCompile Include="链表：2.设计链表.cpp" />
     <ClCompile Include="链表：3.翻转链表.cpp" />

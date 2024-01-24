@@ -25,6 +25,9 @@
     <Filter Include="源文件\Ch4.字符串">
       <UniqueIdentifier>{9fcbcd81-0628-4d26-b7d5-9ee4cc29e084}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch5.栈与队列">
+      <UniqueIdentifier>{ba4cf389-b114-4077-94a4-3d7d0b3efbad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -107,6 +110,27 @@
     </ClCompile>
     <ClCompile Include="字符串：7.重复的子字符串.cpp">
       <Filter>源文件\Ch4.字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：1.用栈实现队列.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：2.用队列实现栈.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：3.有效的括号.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：4.删除字符串中的所有相邻重复项.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：5.逆波兰表达式求值.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：6.滑动窗口最大值.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与队列：7.前k个高频元素.cpp">
+      <Filter>源文件\Ch5.栈与队列</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

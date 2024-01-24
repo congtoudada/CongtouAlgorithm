@@ -53,13 +53,13 @@ public:
     }
 };
 
-int main()
-{
-    string subString = "ababab";
-    vector<int> next(subString.size());
-    Solution solution;
-    solution.getNext(next, subString);
-    for (auto val : next)
-        cout << val;
-    return 0;
-}
+//int main()
+//{
+//    string subString = "ababab";
+//    vector<int> next(subString.size());
+//    Solution solution;
+//    solution.getNext(next, subString);
+//    for (auto val : next)
+//        cout << val;
+//    return 0;
+//}
