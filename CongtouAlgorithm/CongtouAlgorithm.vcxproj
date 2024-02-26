@@ -139,6 +139,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="二叉树：1.二叉树的递归遍历.cpp" />
+    <ClCompile Include="二叉树：10.二叉树的所有路径.cpp" />
+    <ClCompile Include="二叉树：11.左叶子之和.cpp" />
+    <ClCompile Include="二叉树：12.找到左下角的值.cpp" />
+    <ClCompile Include="二叉树：13.路径总和.cpp" />
+    <ClCompile Include="二叉树：14.从中序与后序遍历序列构造二叉树.cpp" />
+    <ClCompile Include="二叉树：15.最大二叉树.cpp" />
+    <ClCompile Include="二叉树：16.合并二叉树.cpp" />
+    <ClCompile Include="二叉树：17.二叉搜索树中的搜索.cpp" />
+    <ClCompile Include="二叉树：18.验证二叉搜索树.cpp" />
+    <ClCompile Include="二叉树：19.二叉搜索树的最小绝对差.cpp" />
+    <ClCompile Include="二叉树：2.二叉树的迭代遍历.cpp" />
+    <ClCompile Include="二叉树：20.二叉搜索树中的众数.cpp" />
+    <ClCompile Include="二叉树：21.二叉树的最近公共祖先.cpp" />
+    <ClCompile Include="二叉树：22.二叉搜索树的最近公共祖先.cpp" />
+    <ClCompile Include="二叉树：3.二叉树层序遍历.cpp" />
+    <ClCompile Include="二叉树：4.翻转二叉树.cpp" />
+    <ClCompile Include="二叉树：5.对称二叉树.cpp" />
+    <ClCompile Include="二叉树：6.二叉树的最大深度.cpp" />
+    <ClCompile Include="二叉树：7.二叉树的最小深度.cpp" />
+    <ClCompile Include="二叉树：8.完全二叉树的节点个数.cpp" />
+    <ClCompile Include="二叉树：9.判断平衡二叉树.cpp" />
     <ClCompile Include="哈希表：1.有效的字母异位词.cpp" />
     <ClCompile Include="哈希表：2.两个数组的交集.cpp" />
     <ClCompile Include="哈希表：3.快乐数.cpp" />
