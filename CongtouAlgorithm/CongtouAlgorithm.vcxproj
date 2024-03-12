@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="二叉树：1.二叉树的递归遍历.cpp" />
     <ClCompile Include="二叉树：10.二叉树的所有路径.cpp" />
     <ClCompile Include="二叉树：11.左叶子之和.cpp" />
@@ -154,6 +155,11 @@
     <ClCompile Include="二叉树：20.二叉搜索树中的众数.cpp" />
     <ClCompile Include="二叉树：21.二叉树的最近公共祖先.cpp" />
     <ClCompile Include="二叉树：22.二叉搜索树的最近公共祖先.cpp" />
+    <ClCompile Include="二叉树：23.二叉树搜索树中的插入操作.cpp" />
+    <ClCompile Include="二叉树：24.删除二叉搜索树中的节点.cpp" />
+    <ClCompile Include="二叉树：25.修剪二叉树.cpp" />
+    <ClCompile Include="二叉树：26.将有序数组转换为二叉搜索树.cpp" />
+    <ClCompile Include="二叉树：27.把二叉搜索树转换为累加树.cpp" />
     <ClCompile Include="二叉树：3.二叉树层序遍历.cpp" />
     <ClCompile Include="二叉树：4.翻转二叉树.cpp" />
     <ClCompile Include="二叉树：5.对称二叉树.cpp" />
@@ -169,6 +175,10 @@
     <ClCompile Include="哈希表：6.赎金信.cpp" />
     <ClCompile Include="哈希表：7.三数之和.cpp" />
     <ClCompile Include="哈希表：8.四数之和.cpp" />
+    <ClCompile Include="回溯算法：1.组合问题.cpp" />
+    <ClCompile Include="回溯算法：2.组合问题优化.cpp" />
+    <ClCompile Include="回溯算法：3.组合总和.cpp" />
+    <ClCompile Include="回溯算法：4.电话号码的字母组合.cpp" />
     <ClCompile Include="字符串：1.反转字符串.cpp" />
     <ClCompile Include="字符串：2.反转字符串2.cpp" />
     <ClCompile Include="字符串：3.替换数字.cpp" />

@@ -31,6 +31,9 @@
     <Filter Include="源文件\Ch6.二叉树">
       <UniqueIdentifier>{7420bfde-0600-4ff4-b1eb-f64e1937b275}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch7.回溯算法">
+      <UniqueIdentifier>{d919be93-37d2-4e23-96da-1daeeb8bc8f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -200,6 +203,36 @@
     </ClCompile>
     <ClCompile Include="二叉树：22.二叉搜索树的最近公共祖先.cpp">
       <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树：23.二叉树搜索树中的插入操作.cpp">
+      <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树：24.删除二叉搜索树中的节点.cpp">
+      <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树：25.修剪二叉树.cpp">
+      <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树：26.将有序数组转换为二叉搜索树.cpp">
+      <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树：27.把二叉搜索树转换为累加树.cpp">
+      <Filter>源文件\Ch6.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：1.组合问题.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：2.组合问题优化.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：3.组合总和.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：4.电话号码的字母组合.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
