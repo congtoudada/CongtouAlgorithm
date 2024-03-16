@@ -234,5 +234,38 @@
     <ClCompile Include="回溯算法：4.电话号码的字母组合.cpp">
       <Filter>源文件\Ch7.回溯算法</Filter>
     </ClCompile>
+    <ClCompile Include="回溯算法：5.组合总和.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：6.组合总和2.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：7.分割回文串.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：8.复原IP地址.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：9.组合.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：10.组合2.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：11.递增子序列.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：12.全排列.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：13.全排列2.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：14.N皇后.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯算法：15.解数独.cpp">
+      <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
