@@ -34,6 +34,12 @@
     <Filter Include="源文件\Ch7.回溯算法">
       <UniqueIdentifier>{d919be93-37d2-4e23-96da-1daeeb8bc8f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch8.贪心算法">
+      <UniqueIdentifier>{b341c473-1b46-46b6-9055-aa0d27db3f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch9.动态规划">
+      <UniqueIdentifier>{6b786662-8850-4f32-9674-659efec26745}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -266,6 +272,51 @@
     </ClCompile>
     <ClCompile Include="回溯算法：15.解数独.cpp">
       <Filter>源文件\Ch7.回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：1.分发饼干.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：2.摆动序列.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：1.斐波那契数.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：2.爬楼梯.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：3.使用最小花费爬楼梯.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：4.不同路径.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：5.不同路径2.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：6.整数拆分.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：7.不同的二叉搜索树.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：0-1背包理论基础.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：0-1背包理论基础2.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：8.分割等和子集.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：9.最后一块石头的重量2.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：10.目标和.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：11.零和一.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

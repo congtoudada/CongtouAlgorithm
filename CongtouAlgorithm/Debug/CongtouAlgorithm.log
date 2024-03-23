@@ -1,3 +1,4 @@
-﻿  回溯算法：14.N皇后.cpp
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\回溯算法：14.N皇后.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+﻿  动态规划：11.零和一.cpp
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\动态规划：11.零和一.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\动态规划：11.零和一.cpp(12,27): warning C4018: “<”: 有符号/无符号不匹配
   CongtouAlgorithm.vcxproj -> E:\Practice\Language\C++\CongtouAlgorithm\Debug\CongtouAlgorithm.exe
