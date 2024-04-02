@@ -40,6 +40,15 @@
     <Filter Include="源文件\Ch9.动态规划">
       <UniqueIdentifier>{6b786662-8850-4f32-9674-659efec26745}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\复习">
+      <UniqueIdentifier>{2d7de02e-3a9e-4efa-bb69-dbc793d15f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\复习\动态规划：子序列相关">
+      <UniqueIdentifier>{15edc677-87e7-43c1-b954-4b6d056bbe3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ACM输入输出">
+      <UniqueIdentifier>{3b91d38a-afea-4333-81ee-5fb5dc014090}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -318,5 +327,112 @@
     <ClCompile Include="动态规划：11.零和一.cpp">
       <Filter>源文件\Ch9.动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="动态规划：12.零钱兑换II.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：13.组合总和IV.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：14.零钱兑换.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：15.完全平方数.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：16.单词拆分.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：27.最长递增连续子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：17.打家劫舍.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：19.打家劫舍II.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：18.打家劫舍III.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：20.买卖股票的最佳时机.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：21.买卖股票的最佳时机II.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：22.买卖股票的最佳时机III.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：23.买股票的最佳时机IV.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：26.最长递增子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：28.最长重复子数组.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：29.最长公共子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：30.不相交的线.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：31.最大子数组和.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：32.判断子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：33.不同的子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="1.最长递增子序列.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="2.最长连续递增序列.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="3.最长重复子数组.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="4.最长公共子序列.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="5.最大子序和.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="6.判断子序列.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="8.两个字符串的删除操作.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="7.不同的子序列.cpp">
+      <Filter>源文件\复习\动态规划：子序列相关</Filter>
+    </ClCompile>
+    <ClCompile Include="输入字符串练习.cpp">
+      <Filter>源文件\ACM输入输出</Filter>
+    </ClCompile>
+    <ClCompile Include="优先队列练习.cpp">
+      <Filter>源文件\ACM输入输出</Filter>
+    </ClCompile>
+    <ClCompile Include="手撕快排.cpp">
+      <Filter>源文件\ACM输入输出</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：34.编辑距离.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：35.回文子串.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划：36.最长回文子序列.cpp">
+      <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cong.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

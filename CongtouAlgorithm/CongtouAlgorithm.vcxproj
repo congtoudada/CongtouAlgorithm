@@ -139,6 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2.最长连续递增序列.cpp" />
+    <ClCompile Include="3.最长重复子数组.cpp" />
+    <ClCompile Include="动态规划：34.编辑距离.cpp" />
+    <ClCompile Include="4.最长公共子序列.cpp" />
+    <ClCompile Include="5.最大子序和.cpp" />
+    <ClCompile Include="6.判断子序列.cpp" />
+    <ClCompile Include="8.两个字符串的删除操作.cpp" />
+    <ClCompile Include="7.不同的子序列.cpp" />
+    <ClCompile Include="优先队列练习.cpp" />
+    <ClCompile Include="动态规划：29.最长公共子序列.cpp" />
+    <ClCompile Include="动态规划：16.单词拆分.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="二叉树：1.二叉树的递归遍历.cpp" />
     <ClCompile Include="二叉树：10.二叉树的所有路径.cpp" />
@@ -172,14 +183,33 @@
     <ClCompile Include="动态规划：1.斐波那契数.cpp" />
     <ClCompile Include="动态规划：10.目标和.cpp" />
     <ClCompile Include="动态规划：11.零和一.cpp" />
+    <ClCompile Include="动态规划：13.组合总和IV.cpp" />
+    <ClCompile Include="动态规划：14.零钱兑换.cpp" />
+    <ClCompile Include="动态规划：15.完全平方数.cpp" />
+    <ClCompile Include="动态规划：17.打家劫舍.cpp" />
+    <ClCompile Include="动态规划：18.打家劫舍III.cpp" />
     <ClCompile Include="动态规划：2.爬楼梯.cpp" />
+    <ClCompile Include="动态规划：20.买卖股票的最佳时机.cpp" />
+    <ClCompile Include="动态规划：21.买卖股票的最佳时机II.cpp" />
+    <ClCompile Include="动态规划：22.买卖股票的最佳时机III.cpp" />
+    <ClCompile Include="动态规划：23.买股票的最佳时机IV.cpp" />
+    <ClCompile Include="动态规划：28.最长重复子数组.cpp" />
     <ClCompile Include="动态规划：3.使用最小花费爬楼梯.cpp" />
+    <ClCompile Include="动态规划：30.不相交的线.cpp" />
+    <ClCompile Include="动态规划：31.最大子数组和.cpp" />
+    <ClCompile Include="动态规划：32.判断子序列.cpp" />
+    <ClCompile Include="动态规划：33.不同的子序列.cpp" />
+    <ClCompile Include="动态规划：35.回文子串.cpp" />
+    <ClCompile Include="动态规划：36.最长回文子序列.cpp" />
     <ClCompile Include="动态规划：4.不同路径.cpp" />
     <ClCompile Include="动态规划：5.不同路径2.cpp" />
     <ClCompile Include="动态规划：6.整数拆分.cpp" />
     <ClCompile Include="动态规划：7.不同的二叉搜索树.cpp" />
     <ClCompile Include="动态规划：8.分割等和子集.cpp" />
     <ClCompile Include="动态规划：9.最后一块石头的重量2.cpp" />
+    <ClCompile Include="动态规划：19.打家劫舍II.cpp" />
+    <ClCompile Include="动态规划：26.最长递增子序列.cpp" />
+    <ClCompile Include="动态规划：27.最长递增连续子序列.cpp" />
     <ClCompile Include="哈希表：1.有效的字母异位词.cpp" />
     <ClCompile Include="哈希表：2.两个数组的交集.cpp" />
     <ClCompile Include="哈希表：3.快乐数.cpp" />
@@ -210,11 +240,13 @@
     <ClCompile Include="字符串：5.右旋字符串.cpp" />
     <ClCompile Include="字符串：6.找出字符串中第一个匹配项的下标 KMP.cpp" />
     <ClCompile Include="字符串：7.重复的子字符串.cpp" />
+    <ClCompile Include="手撕快排.cpp" />
     <ClCompile Include="数组：2.移除元素.cpp" />
     <ClCompile Include="数组：1.二分查找法.cpp" />
     <ClCompile Include="数组：3.有序数组的平方.cpp" />
     <ClCompile Include="数组：4.长度最小子数组.cpp" />
     <ClCompile Include="数组：5.螺旋矩阵.cpp" />
+    <ClCompile Include="1.最长递增子序列.cpp" />
     <ClCompile Include="栈与队列：1.用栈实现队列.cpp" />
     <ClCompile Include="栈与队列：2.用队列实现栈.cpp" />
     <ClCompile Include="栈与队列：3.有效的括号.cpp" />
@@ -222,8 +254,10 @@
     <ClCompile Include="栈与队列：5.逆波兰表达式求值.cpp" />
     <ClCompile Include="栈与队列：6.滑动窗口最大值.cpp" />
     <ClCompile Include="栈与队列：7.前k个高频元素.cpp" />
+    <ClCompile Include="动态规划：12.零钱兑换II.cpp" />
     <ClCompile Include="贪心算法：1.分发饼干.cpp" />
     <ClCompile Include="贪心算法：2.摆动序列.cpp" />
+    <ClCompile Include="输入字符串练习.cpp" />
     <ClCompile Include="链表：1.删除链表元素.cpp" />
     <ClCompile Include="链表：2.设计链表.cpp" />
     <ClCompile Include="链表：3.翻转链表.cpp" />
@@ -231,6 +265,9 @@
     <ClCompile Include="链表：5.删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="链表：6.链表相交.cpp" />
     <ClCompile Include="链表：7.环形链表.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cong.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
