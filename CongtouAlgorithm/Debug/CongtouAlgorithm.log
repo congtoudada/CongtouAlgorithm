@@ -1,10 +1,4 @@
-﻿  34.编辑距离.cpp
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\34.编辑距离.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\34.编辑距离.cpp(12,27): warning C4018: “<=”: 有符号/无符号不匹配
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\34.编辑距离.cpp(16,27): warning C4018: “<=”: 有符号/无符号不匹配
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\34.编辑距离.cpp(21,27): warning C4018: “<=”: 有符号/无符号不匹配
-E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\34.编辑距离.cpp(23,31): warning C4018: “<=”: 有符号/无符号不匹配
-  手撕快排.cpp
-  正在生成代码...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-E:\Practice\Language\C++\CongtouAlgorithm\Debug\CongtouAlgorithm.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  图论：13.冗余连接.cpp
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\图论：13.冗余连接.cpp(29,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Practice\Language\C++\CongtouAlgorithm\CongtouAlgorithm\图论：13.冗余连接.cpp(34,27): warning C4018: “<”: 有符号/无符号不匹配
+  CongtouAlgorithm.vcxproj -> E:\Practice\Language\C++\CongtouAlgorithm\Debug\CongtouAlgorithm.exe

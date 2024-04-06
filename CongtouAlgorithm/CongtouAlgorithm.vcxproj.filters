@@ -49,6 +49,12 @@
     <Filter Include="源文件\ACM输入输出">
       <UniqueIdentifier>{3b91d38a-afea-4333-81ee-5fb5dc014090}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch10.单调栈">
+      <UniqueIdentifier>{2e111783-dcb6-42b8-94e1-13f045104cc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch11.所有可能的路径">
+      <UniqueIdentifier>{5e61fffb-1806-469e-8cc9-12644d8c2daa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：1.二分查找法.cpp">
@@ -428,6 +434,84 @@
     </ClCompile>
     <ClCompile Include="动态规划：36.最长回文子序列.cpp">
       <Filter>源文件\Ch9.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="单调栈：1.每日温度.cpp">
+      <Filter>源文件\Ch10.单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="单调栈：2.下一个更大元素I.cpp">
+      <Filter>源文件\Ch10.单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="单调栈：3.下一个更大元素II.cpp">
+      <Filter>源文件\Ch10.单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="单调栈：4.接雨水.cpp">
+      <Filter>源文件\Ch10.单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="单调栈：5.柱状图.cpp">
+      <Filter>源文件\Ch10.单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：3.最大子序和.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：4.买卖股票的最佳时机II.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：5.跳跃游戏.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：6.跳跃游戏II.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：7.K次取反后最大化的数组和.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：8.加油站.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法：9.分发糖果.cpp">
+      <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：1.所有可能的路径.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：2.岛屿的数量%28深搜版%29.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：3.岛屿的数量(广搜版).cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：4.岛屿的最大面积.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：5.飞地的数量.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：6.被围绕的区域.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：7.太平洋大西洋水流问题.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：8.最大人工岛.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：9.单词接龙.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：10.钥匙和房间.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：11.岛屿的周长.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：12.寻找图中是否存在路径.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：13.冗余连接.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
+    </ClCompile>
+    <ClCompile Include="图论：14.冗余连接II.cpp">
+      <Filter>源文件\Ch11.所有可能的路径</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

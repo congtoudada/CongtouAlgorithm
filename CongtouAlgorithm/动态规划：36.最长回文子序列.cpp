@@ -4,7 +4,7 @@ using namespace std;
 
 class Solution {
 public:
-    int countSubstrings(string s) {
+    int longestPalindromeSubseq(string s) {
 		//dp[i][j]: [i,j]的回文子序列长度
         vector<vector<int>> dp(s.size(), vector<int>(s.size(), 0));
 

@@ -141,6 +141,21 @@
   <ItemGroup>
     <ClCompile Include="2.最长连续递增序列.cpp" />
     <ClCompile Include="3.最长重复子数组.cpp" />
+    <ClCompile Include="图论：1.所有可能的路径.cpp" />
+    <ClCompile Include="图论：10.钥匙和房间.cpp" />
+    <ClCompile Include="图论：11.岛屿的周长.cpp" />
+    <ClCompile Include="图论：12.寻找图中是否存在路径.cpp" />
+    <ClCompile Include="图论：13.冗余连接.cpp" />
+    <ClCompile Include="图论：14.冗余连接II.cpp" />
+    <ClCompile Include="图论：2.岛屿的数量%28深搜版%29.cpp" />
+    <ClCompile Include="图论：3.岛屿的数量(广搜版).cpp" />
+    <ClCompile Include="图论：4.岛屿的最大面积.cpp" />
+    <ClCompile Include="图论：5.飞地的数量.cpp" />
+    <ClCompile Include="图论：6.被围绕的区域.cpp" />
+    <ClCompile Include="图论：7.太平洋大西洋水流问题.cpp" />
+    <ClCompile Include="图论：8.最大人工岛.cpp" />
+    <ClCompile Include="图论：9.单词接龙.cpp" />
+    <ClCompile Include="贪心算法：8.加油站.cpp" />
     <ClCompile Include="动态规划：34.编辑距离.cpp" />
     <ClCompile Include="4.最长公共子序列.cpp" />
     <ClCompile Include="5.最大子序和.cpp" />
@@ -210,6 +225,11 @@
     <ClCompile Include="动态规划：19.打家劫舍II.cpp" />
     <ClCompile Include="动态规划：26.最长递增子序列.cpp" />
     <ClCompile Include="动态规划：27.最长递增连续子序列.cpp" />
+    <ClCompile Include="单调栈：1.每日温度.cpp" />
+    <ClCompile Include="单调栈：2.下一个更大元素I.cpp" />
+    <ClCompile Include="单调栈：3.下一个更大元素II.cpp" />
+    <ClCompile Include="单调栈：4.接雨水.cpp" />
+    <ClCompile Include="单调栈：5.柱状图.cpp" />
     <ClCompile Include="哈希表：1.有效的字母异位词.cpp" />
     <ClCompile Include="哈希表：2.两个数组的交集.cpp" />
     <ClCompile Include="哈希表：3.快乐数.cpp" />
@@ -257,6 +277,12 @@
     <ClCompile Include="动态规划：12.零钱兑换II.cpp" />
     <ClCompile Include="贪心算法：1.分发饼干.cpp" />
     <ClCompile Include="贪心算法：2.摆动序列.cpp" />
+    <ClCompile Include="贪心算法：3.最大子序和.cpp" />
+    <ClCompile Include="贪心算法：4.买卖股票的最佳时机II.cpp" />
+    <ClCompile Include="贪心算法：5.跳跃游戏.cpp" />
+    <ClCompile Include="贪心算法：6.跳跃游戏II.cpp" />
+    <ClCompile Include="贪心算法：7.K次取反后最大化的数组和.cpp" />
+    <ClCompile Include="贪心算法：9.分发糖果.cpp" />
     <ClCompile Include="输入字符串练习.cpp" />
     <ClCompile Include="链表：1.删除链表元素.cpp" />
     <ClCompile Include="链表：2.设计链表.cpp" />
