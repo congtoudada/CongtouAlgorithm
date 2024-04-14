@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="贪心算法：15.合并区间.cpp" />
     <ClCompile Include="2.最长连续递增序列.cpp" />
     <ClCompile Include="3.最长重复子数组.cpp" />
     <ClCompile Include="图论：1.所有可能的路径.cpp" />
@@ -155,6 +156,13 @@
     <ClCompile Include="图论：7.太平洋大西洋水流问题.cpp" />
     <ClCompile Include="图论：8.最大人工岛.cpp" />
     <ClCompile Include="图论：9.单词接龙.cpp" />
+    <ClCompile Include="贪心算法：10.柠檬水找零.cpp" />
+    <ClCompile Include="贪心算法：11.根据身高重建队列.cpp" />
+    <ClCompile Include="贪心算法：12.用最少数量的箭引爆气球.cpp" />
+    <ClCompile Include="贪心算法：13.无重叠区间.cpp" />
+    <ClCompile Include="贪心算法：14.划分字母区间.cpp" />
+    <ClCompile Include="贪心算法：16.单调递增的数字.cpp" />
+    <ClCompile Include="贪心算法：17.监控二叉树.cpp" />
     <ClCompile Include="贪心算法：8.加油站.cpp" />
     <ClCompile Include="动态规划：34.编辑距离.cpp" />
     <ClCompile Include="4.最长公共子序列.cpp" />
