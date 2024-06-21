@@ -4,6 +4,11 @@
 #include <iostream>
 #include <sstream>
 #include <stack>
+#include <unordered_map>
+#include <unordered_set>
+#include <algorithm>
+#include <deque>
+#include <queue>
 using namespace std;
 
 //Definition for singly-linked list.

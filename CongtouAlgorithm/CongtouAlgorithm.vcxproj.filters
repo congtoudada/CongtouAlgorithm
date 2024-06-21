@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\ACM输入输出">
+      <UniqueIdentifier>{3b91d38a-afea-4333-81ee-5fb5dc014090}</UniqueIdentifier>
+    </Filter>
     <Filter Include="源文件\Ch1.数组">
       <UniqueIdentifier>{cc241d7d-3410-44ff-bb4b-3206bd6364a6}</UniqueIdentifier>
     </Filter>
@@ -40,20 +43,20 @@
     <Filter Include="源文件\Ch9.动态规划">
       <UniqueIdentifier>{6b786662-8850-4f32-9674-659efec26745}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch10.单调栈">
+      <UniqueIdentifier>{2e111783-dcb6-42b8-94e1-13f045104cc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch11.所有可能的路径">
+      <UniqueIdentifier>{5e61fffb-1806-469e-8cc9-12644d8c2daa}</UniqueIdentifier>
+    </Filter>
     <Filter Include="源文件\复习">
       <UniqueIdentifier>{2d7de02e-3a9e-4efa-bb69-dbc793d15f06}</UniqueIdentifier>
     </Filter>
     <Filter Include="源文件\复习\动态规划：子序列相关">
       <UniqueIdentifier>{15edc677-87e7-43c1-b954-4b6d056bbe3b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\ACM输入输出">
-      <UniqueIdentifier>{3b91d38a-afea-4333-81ee-5fb5dc014090}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\Ch10.单调栈">
-      <UniqueIdentifier>{2e111783-dcb6-42b8-94e1-13f045104cc2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\Ch11.所有可能的路径">
-      <UniqueIdentifier>{5e61fffb-1806-469e-8cc9-12644d8c2daa}</UniqueIdentifier>
+    <Filter Include="源文件\其他">
+      <UniqueIdentifier>{145bc040-eaf1-455f-a9fb-6e26e968ed5d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -536,6 +539,9 @@
     </ClCompile>
     <ClCompile Include="贪心算法：17.监控二叉树.cpp">
       <Filter>源文件\Ch8.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="424. 替换后的最长重复字符.cpp">
+      <Filter>源文件\其他</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

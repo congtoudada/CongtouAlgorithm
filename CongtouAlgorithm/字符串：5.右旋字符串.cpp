@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-//左闭右闭
-void reverse(string& s, int start, int end)
-{
-	while(start < end)
-	{
-		swap(s[start++], s[end--]);
-	}
-}
+////左闭右闭
+//void reverse(string& s, int start, int end)
+//{
+//	while(start < end)
+//	{
+//		swap(s[start++], s[end--]);
+//	}
+//}
 
 //int main()
 //{

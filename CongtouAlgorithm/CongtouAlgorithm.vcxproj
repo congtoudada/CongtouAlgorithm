@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="424. 替换后的最长重复字符.cpp" />
     <ClCompile Include="贪心算法：15.合并区间.cpp" />
     <ClCompile Include="2.最长连续递增序列.cpp" />
     <ClCompile Include="3.最长重复子数组.cpp" />
